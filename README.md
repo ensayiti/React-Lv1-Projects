@@ -23,27 +23,27 @@
 </div>
 
 ## Daftar Project
-* Password Generator
-* To Do List App
-* Pokedex (API)
+* Password Generator | <a href="https://sleepingatparty.xyz/react/password-generator">Live Demo</a>
+* To Do List App | <a href="https://sleepingatparty.xyz/react/todo">Live Demo</a>
+* Pokedex (API) | <a href="https://sleepingatparty.xyz/react/pokedex">Live Demo</a>
 
 ## Script yang tersedia
 
 ### `npm start`
-Akan menjalankan development mode.
-Buka http://localhost:3000 untuk melihat tampilan project di browser.
-Halaman akan refresh ketika ada yang diedit.
-Serta akan menampilkan pesan error jika ditemukan error.
+* Akan menjalankan development mode.<br>
+* Buka http://localhost:3000 untuk melihat tampilan project di browser.<br>
+* Halaman akan refresh ketika ada yang diedit.<br>
+* Serta akan menampilkan pesan error jika ditemukan error.<br>
 
 ### `npm test`
-Akan meluncurkan versi test dalam mode melihat yang interaktif.
-Baca selengkapnya [running tests](https://facebook.github.io/create-react-app/docs/running-tests) untuk lebih detil.
+* Akan meluncurkan versi test dalam mode melihat yang interaktif.<br>
+* Baca selengkapnya [running tests](https://facebook.github.io/create-react-app/docs/running-tests) untuk lebih detil.<br>
 
 ### `npm run build`
-Akan membangun aplikasi untuk produksi ke dalam folder `build`.
-Setelahnya akan menciptakan paket React dalam mode produksi yang telah dioptimasi untuk performa yang lebih baik.
-Paket ini sudah minified dan nama file yang sudah terdapat hash.
-App siap diluncurkan.
+* Akan membangun aplikasi untuk produksi ke dalam folder `build`.<br>
+* Setelahnya akan menciptakan paket React dalam mode produksi yang telah dioptimasi untuk performa yang lebih baik.<br>
+* Paket ini sudah minified dan nama file yang sudah terdapat hash.<br>
+* App siap diluncurkan.<br>
 
 <br>
 
